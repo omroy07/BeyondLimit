@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of the **BeyondLimit** YouTube channel
 
 This repository hosts all the source code and example programs used in our C++ tutorials. Whether you're a beginner or brushing up on your skills, you'll find practical examples and clear implementations here that complement the video content on our channel.
 
-🔗 [Subscribe to our YouTube Channel](https://www.youtube.com/@BeyondLimit) for detailed explanations, walkthroughs, and tutorials.
+🔗 [Subscribe to our YouTube Channel]([https://www.youtube.com/@BeyondLimit](https://youtube.com/@beyondlimit-y2y?si=OuhAcdrWG-l9xthE)) for detailed explanations, walkthroughs, and tutorials.
 
 ---
 
